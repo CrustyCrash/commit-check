@@ -4,6 +4,6 @@
 public class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Hello CDAC!");
+        System.out.println("Hello from C-DAC ACTS!");
     }
 }
